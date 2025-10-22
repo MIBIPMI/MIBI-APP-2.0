@@ -1,0 +1,1 @@
+const { generateAuthenticationOptions } = require('@simplewebauthn/server');module.exports=(req,res)=>{const options=generateAuthenticationOptions({userVerification:'preferred'});res.json(options);}

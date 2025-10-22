@@ -1,0 +1,11 @@
+{
+  "name": "mibi-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.1488.0",
+    "stripe": "^12.16.0",
+    "pg": "^8.11.0",
+    "@simplewebauthn/server": "^7.3.0"
+  }
+}

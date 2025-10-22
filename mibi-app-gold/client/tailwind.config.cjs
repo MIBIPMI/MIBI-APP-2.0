@@ -1,0 +1,1 @@
+module.exports={content:['./index.html','./src/**/*.{js,jsx}'],theme:{extend:{colors:{gold:'#D4AF37',onyx:'#0A0A0A'},boxShadow:{soft:'0 8px 24px rgba(0,0,0,0.25)'}}},plugins:[]};
